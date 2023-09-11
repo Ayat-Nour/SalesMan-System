@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819748754869",
+    "project_id": "route-db-91edb",
+    "storage_bucket": "route-db-91edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819748754869:android:58764da1e922406b9875fc",
+        "android_client_info": {
+          "package_name": "com.example.route_salesman_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819748754869-qhc9j4vubroppvs9nfmi333s6ddjl790.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_OtsWjqgYuW3sLd8vGHn7EdtLOuPkQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819748754869-qhc9j4vubroppvs9nfmi333s6ddjl790.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
